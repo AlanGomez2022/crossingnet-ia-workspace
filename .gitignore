@@ -1,5 +1,6 @@
 # HTML finales generados
-output/
+output/*
+!output/ssi_promos_2024.php
 
 # Sistema
 .DS_Store
