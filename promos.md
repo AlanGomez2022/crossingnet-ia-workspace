@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-- Modificar e archivo que se encuentra en knowledge/output/ssi_promos_2024.php
+- Modificar e archivo que se encuentra en `output/ssi_promos_2024.php`
 - es agregar codigo sin eliminar nada. 
 - utiliza el slug creado del texto.
 
