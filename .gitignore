@@ -1,0 +1,9 @@
+# HTML finales generados
+output/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
