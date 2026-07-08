@@ -20,7 +20,19 @@ Este workspace se usa únicamente para generar los newsletters de Stylus.
 - No modificar nombres base.
 - En el archivo .html respetar exactamente la cantidad de bloques solicitada. Preguntar la cantidad si no se dá.
 - preguntar tambien el link si va con un link especifico y en que bloques.
+- preguntar si hay bloques en linea
+- preguntar si sube o no a promos
 - Guardar los HTML finales en `/output`.
+
+## sube a promos
+- en caso de que el usuario diga "No sube a promos" significa que no se modifica el `output/ssi_promos_2024.php`
+
+## Bloques alineados horizontalmente
+
+- Cuando el pedido indique que ciertos bloques están “alineados”, “en línea”, “horizontalmente” o “con display flex”, esos bloques deben generarse dentro de un único `<tr>` y un único `<td style="display:flex;">`.
+- Dentro de ese `<td>` deben ir todos los `<a>` correspondientes a esos bloques, uno al lado del otro.
+- No generar un `<tr>` separado para cada bloque alineado.
+- No agregar estilos extra: usar únicamente `style="display:flex;"` en el `<td>`.
 
 ## Archivo base
 - Partir desde el archivo base que figura en `html/plantilla.html`.
