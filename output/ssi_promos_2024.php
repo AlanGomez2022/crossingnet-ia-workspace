@@ -1,4 +1,4 @@
-<div class="promos-wrapper">
+﻿<div class="promos-wrapper">
     <!--	
 	<div class="row">
 		<div class="col-12">
@@ -21,6 +21,14 @@
         </div>
     </div>
     <div class="row">
+        <div class="col-xs-12 col-sm-6 col-md-4">
+            <a href="https://www.stylus.com.ar/n_e_cross/piezas/2026_07_16_arma_tu_equipo_titular_de_videocolaboracion_con_lenovo_thinksmart.html" target="_blank" alt="" title="">
+                <img src="images/promos/2026_07_16_promo.jpg" style="width: 350px;" />
+                <div class="titpromo-wrapper">
+                    <span class="titpromo">Armá tu equipo titular de Videocolaboración con Lenovo ThinkSmart.</span>
+                </div>
+            </a>
+        </div>
         <div class="col-xs-12 col-sm-6 col-md-4">
             <a href="https://www.stylus.com.ar/n_e_cross/piezas/2026_07_06_nueva_linea_de_impresoras_ecotank_home_de_epson.html" target="_blank" alt="" title="">
                 <img src="images/promos/2026_07_06_promo.jpg" style="width: 350px;" />
@@ -60,6 +68,14 @@
         </div>
     </div>
     <div class="row">
+        <div class="col-xs-12 col-sm-6 col-md-4">
+            <a href="https://www.stylus.com.ar/n_e_cross/piezas/2026_06_30_arma_tu_equipo_titular_de_videocolaboracion_con_lenovo_thinksmart.html" target="_blank" alt="" title="">
+                <img src="images/promos/2026_06_30_promo.jpg" style="width: 350px;" />
+                <div class="titpromo-wrapper">
+                    <span class="titpromo">Armá tu equipo titular de Videocolaboración con Lenovo ThinkSmart.</span>
+                </div>
+            </a>
+        </div>
         <div class="col-xs-12 col-sm-6 col-md-4">
             <a href="https://www.stylus.com.ar/n_e_cross/piezas/2026_06_29_familia_de_tablets_samsung_encontralas_en_stylus.html" target="_blank" alt="" title="">
                 <img src="images/promos/2026_06_29_promo.jpg" style="width: 350px;" />
